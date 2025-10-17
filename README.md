@@ -1,7 +1,8 @@
 # RSL-BA (ECCV 2024)
 
 [RSL-BA: Rolling Shutter Line Bundle Adjustment](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07643.pdf)  
-**Authors:** [Yongcong Zhang](yongcongzhang0326@gmail.com), Bangyan Liao, Yifei Xue, Chen Lu, Peidong Liu & Yizhen Lao
+**Authors:** Yongcong Zhang, Bangyan Liao, Yifei Xue, Chen Lu, Peidong Liu & Yizhen Lao
+**Contacts:** yongcongzhang0326@gmail.com
 ![RSL-BA Pipeline](images/pipline.png)
 
 ---
@@ -19,6 +20,7 @@ In this work, we introduce the first **rolling shutter line-based bundle adjustm
 Extensive synthetic and real-world experiments show that **RSL-BA achieves efficiency and accuracy comparable to existing point-based RSBA solutions**.
 
 ---
+
 
 ## Usage
 
