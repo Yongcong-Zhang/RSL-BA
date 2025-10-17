@@ -42,7 +42,6 @@ This work is supported by the National Key R&D Program of China (No.2022ZD011900
 ## Citation
 
 If you use this code, please cite:
-
 @inproceedings{zhang2024rsl,
   title={RSL-BA: rolling shutter line bundle adjustment},
   author={Zhang, Yongcong and Liao, Bangyan and Xue, Yifei and Lu, Chen and Liu, Peidong and Lao, Yizhen},
