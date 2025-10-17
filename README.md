@@ -1,2 +1,41 @@
-# RSL-BA
-Code for Rolling Shutter Line Bundle Adjustment(ECCV 2024)
+# RSL-BA (ECCV 2024)
+
+[RSL-BA: Rolling Shutter Line Bundle Adjustment](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07643.pdf)  
+**Authors:** Yongcong Zhang, Bangyan Liao, Yifei Xue, Chen Lu, Peidong Liu & Yizhen Lao
+
+
+---
+
+## Overview
+
+Lines are prevalent elements in man-made environments, inherently encoding spatial structural information. This makes them a more robust choice for feature representation in practical applications. Despite their advantages, previous rolling shutter bundle adjustment (RSBA) methods have only supported sparse feature points, which lack robustness, particularly in degenerate environments.
+
+In this work, we introduce the first **rolling shutter line-based bundle adjustment solution**, **RSL-BA**. Specifically:
+
+1. We establish the rolling shutter camera line projection theory using **Plücker line parameterization**.  
+2. We derive a series of **stable and efficient reprojection error formulations**.  
+3. We theoretically and experimentally demonstrate that our method **prevents three common degeneracies**, one of which is discovered for the first time in this paper.  
+
+Extensive synthetic and real-world experiments show that **RSL-BA achieves efficiency and accuracy comparable to existing point-based RSBA solutions**.
+
+---
+
+## Usage
+
+1. **Download the code** from this repository.  
+2. Open `main/RSL_BA_main.mlx`.  
+3. Replace the `root_path` variable with your own path.  
+
+We provide three scenes for testing:
+
+- Scene 1: General  
+- Scene 2: Plane degeneracy  
+- Scene 3: 2-views pure translation degeneracy  
+
+Both **points bundle adjustment** and **line bundle adjustment** methods are included for comparison.
+
+---
+
+## Citation
+
+If you use this code, please cite:
