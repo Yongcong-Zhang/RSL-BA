@@ -2,7 +2,7 @@
 
 [RSL-BA: Rolling Shutter Line Bundle Adjustment](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07643.pdf)  
 **Authors:** Yongcong Zhang, Bangyan Liao, Yifei Xue, Chen Lu, Peidong Liu & Yizhen Lao
-![RSL-BA](RSL-BA/images/pipline.png)
+![RSL-BA Pipeline](images/pipline.png)
 
 ---
 
