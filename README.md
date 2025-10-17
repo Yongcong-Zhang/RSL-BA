@@ -50,10 +50,14 @@ If you use this code, please cite:
   organization={Springer}
 }
 ```
+
+We would like to thank the authors of [NW-RSBA](https://github.com/DelinQu/NW-RSBA) for providing their code, which was used in parts of our work.
+
 ---
 
 ## Acknowledgments
 This work is supported by the National Key R&D Program of China (No.2022ZD01190030), Nature Science Foundation of China (No. 62102145), Jiangxi Provincial 03 Special Foundation and 5G Program (Grant No. 20224ABC03A05), Lushan Lab Research Funding, and Changsha Science Fund for Distinguished Young Scholars (kq2306002).
+
 
 ---
 
