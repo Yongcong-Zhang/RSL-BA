@@ -36,12 +36,10 @@ Both **points bundle adjustment** and **line bundle adjustment** methods are inc
 
 ---
 
-## Acknowledgments
-This work is supported by the National Key R&D Program of China (No.2022ZD01190030), Nature Science Foundation of China (No. 62102145), Jiangxi Provincial 03 Special Foundation and 5G Program (Grant No. 20224ABC03A05), Lushan Lab Research Funding, and Changsha Science Fund for Distinguished Young Scholars (kq2306002).
-
 ## Citation
 
 If you use this code, please cite:
+'''
 @inproceedings{zhang2024rsl,
   title={RSL-BA: rolling shutter line bundle adjustment},
   author={Zhang, Yongcong and Liao, Bangyan and Xue, Yifei and Lu, Chen and Liu, Peidong and Lao, Yizhen},
@@ -50,3 +48,11 @@ If you use this code, please cite:
   year={2024},
   organization={Springer}
 }
+'''
+---
+
+## Acknowledgments
+This work is supported by the National Key R&D Program of China (No.2022ZD01190030), Nature Science Foundation of China (No. 62102145), Jiangxi Provincial 03 Special Foundation and 5G Program (Grant No. 20224ABC03A05), Lushan Lab Research Funding, and Changsha Science Fund for Distinguished Young Scholars (kq2306002).
+
+---
+
