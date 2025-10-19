@@ -17,7 +17,7 @@ In this work, we introduce the first **rolling shutter line-based bundle adjustm
 2. We derive a series of **stable and efficient reprojection error formulations**.  
 3. We theoretically and experimentally demonstrate that our method **prevents three common degeneracies**, one of which is discovered for the first time in this paper.  
 
-Extensive synthetic and real-world experiments show that **RSL-BA achieves efficiency and accuracy comparable to existing point-based RSBA solutions**.
+The experiments show that **RSL-BA achieves efficiency and accuracy comparable to existing point-based RSBA solutions**.
 
 ---
 
